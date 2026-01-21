@@ -1,0 +1,28 @@
+# Semua dataset & hasil
+data/
+dataset*/
+*/dataset*/
+results/
+screenshots/
+*.mp4
+
+# Model hasil training
+*.pth
+*.h5
+*.pt
+
+# Virtual environment
+env/
+venv/
+
+# Dokumen & laporan
+*.docx
+*.pdf
+*.pptx
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
